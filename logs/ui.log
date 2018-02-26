@@ -1,0 +1,393 @@
+2018-02-26 14:46:31.417 o.a.s.u.core main [INFO] Starting ui server for storm version '1.2.1'
+2018-02-26 14:46:31.420 o.a.s.d.m.MetricsUtils main [INFO] Using statistics reporter plugin:org.apache.storm.daemon.metrics.reporters.JmxPreparableReporter
+2018-02-26 14:46:31.420 o.a.s.d.m.r.JmxPreparableReporter main [INFO] Preparing...
+2018-02-26 14:46:31.428 o.a.s.d.common main [INFO] Started statistics report plugin...
+2018-02-26 14:46:31.476 o.a.s.s.o.e.j.s.Server main [INFO] jetty-7.x.y-SNAPSHOT
+2018-02-26 14:46:31.501 o.a.s.s.o.e.j.s.h.ContextHandler main [INFO] started o.a.s.s.o.e.j.s.ServletContextHandler{/,null}
+2018-02-26 14:46:31.519 o.a.s.s.o.e.j.s.AbstractConnector main [INFO] Started SelectChannelConnector@0.0.0.0:8080
+2018-02-26 14:47:07.784 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:07.970 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:07.972 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:07.976 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:07.979 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:16.697 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:16.801 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:16.802 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:16.805 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:16.809 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:18.207 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:18.261 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:18.261 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:18.262 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:47:18.263 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:48:30.750 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:48:30.751 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:48:30.790 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:49:50.180 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:49:50.181 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:49:50.204 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:12.073 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:12.091 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:12.287 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:12.306 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:22.377 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:50:22.396 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:31.094 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:31.097 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:31.127 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:38.308 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:38.356 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:38.357 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:38.370 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:38.379 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:42.208 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:42.242 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:42.244 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:42.245 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:51:42.245 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:34.466 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:34.578 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:34.578 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:34.579 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:34.580 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:35.696 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:35.789 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:35.790 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:35.790 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:52:35.792 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:57:56.263 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:57:56.375 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:57:56.380 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:57:56.403 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:57:56.404 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:58:09.323 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:58:09.325 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:58:09.348 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:06.065 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:11.374 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:11.374 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:11.394 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:38.232 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:38.232 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 14:59:38.253 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:00:56.624 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:00:56.732 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:00:56.733 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:00:56.733 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:00:56.736 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:20.056 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:26.360 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:26.363 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:26.385 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:26.477 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:26.494 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:41.060 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:41.177 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:41.178 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:41.180 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:01:41.183 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:03:43.525 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:03:43.525 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:03:43.545 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:10:41.544 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:10:41.549 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:10:41.570 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:11:22.314 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:11:22.314 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:11:22.334 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:17.323 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:17.328 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:23.709 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:23.810 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:23.810 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:23.810 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:23.813 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:25.660 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:25.706 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:25.706 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:25.706 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:25.707 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:26.666 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:26.705 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:26.705 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:26.707 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:12:26.708 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:13:21.726 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-17 [WARN] WILL SLEEP FOR 2001ms (NOT MAX)
+2018-02-26 15:13:23.728 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-17 [WARN] WILL SLEEP FOR 2003ms (NOT MAX)
+2018-02-26 15:13:25.732 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-17 [WARN] WILL SLEEP FOR 2006ms (NOT MAX)
+2018-02-26 15:13:27.739 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-17 [WARN] WILL SLEEP FOR 2011ms (NOT MAX)
+2018-02-26 15:13:29.751 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-17 [WARN] WILL SLEEP FOR 2022ms (NOT MAX)
+2018-02-26 15:13:31.775 o.a.s.u.NimbusClient qtp1648537147-17 [WARN] Ignoring exception while trying to get leader nimbus info from 172.18.72.181. will retry with a different seed host.
+java.lang.RuntimeException: java.lang.RuntimeException: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:112) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.<init>(ThriftClient.java:73) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.<init>(NimbusClient.java:136) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.getConfiguredClientAs(NimbusClient.java:92) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.getConfiguredClientAs(NimbusClient.java:66) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$cluster_configuration.invoke(core.clj:342) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$fn__9557.invoke(core.clj:1106) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$make_route$fn__5979.invoke(core.clj:100) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$if_route$fn__5967.invoke(core.clj:46) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$if_method$fn__5960.invoke(core.clj:31) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$routing$fn__5985.invoke(core.clj:113) ~[storm-core-1.2.1.jar:1.2.1]
+	at clojure.core$some.invoke(core.clj:2570) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.shade.compojure.core$routing.doInvoke(core.clj:113) ~[storm-core-1.2.1.jar:1.2.1]
+	at clojure.lang.RestFn.applyTo(RestFn.java:139) ~[clojure-1.7.0.jar:?]
+	at clojure.core$apply.invoke(core.clj:632) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.shade.compojure.core$routes$fn__5989.invoke(core.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.cors$wrap_cors$fn__8894.invoke(cors.clj:149) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.json$wrap_json_params$fn__8841.invoke(json.clj:56) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.multipart_params$wrap_multipart_params$fn__6621.invoke(multipart_params.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.reload$wrap_reload$fn__7904.invoke(reload.clj:22) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.helpers$requests_middleware$fn__6874.invoke(helpers.clj:52) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$catch_errors$fn__9761.invoke(core.clj:1428) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.keyword_params$wrap_keyword_params$fn__6541.invoke(keyword_params.clj:35) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.nested_params$wrap_nested_params$fn__6584.invoke(nested_params.clj:84) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.params$wrap_params$fn__6513.invoke(params.clj:64) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.multipart_params$wrap_multipart_params$fn__6621.invoke(multipart_params.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.flash$wrap_flash$fn__6836.invoke(flash.clj:35) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.session$wrap_session$fn__6822.invoke(session.clj:98) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet$make_service_method$fn__6371.invoke(servlet.clj:127) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet$servlet$fn__6375.invoke(servlet.clj:136) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet.proxy$javax.servlet.http.HttpServlet$ff19274a.service(Unknown Source) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:654) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1320) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.logging.filters.AccessLoggingFilter.handle(AccessLoggingFilter.java:47) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.logging.filters.AccessLoggingFilter.doFilter(AccessLoggingFilter.java:39) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_141]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_141]
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:93) ~[clojure-1.7.0.jar:?]
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.ui.helpers$x_frame_options_filter_handler$fn__6967.invoke(helpers.clj:192) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.helpers.proxy$java.lang.Object$Filter$abec9a8f.doFilter(Unknown Source) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlets.CrossOriginFilter.handle(CrossOriginFilter.java:247) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlets.CrossOriginFilter.doFilter(CrossOriginFilter.java:210) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:443) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1044) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:372) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:978) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.Server.handle(Server.java:369) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543) ~[storm-core-1.2.1.jar:1.2.1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+Caused by: java.lang.RuntimeException: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.security.auth.TBackoffConnect.retryNext(TBackoffConnect.java:64) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:56) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+Caused by: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.thrift.transport.TSocket.open(TSocket.java:226) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.thrift.transport.TFramedTransport.open(TFramedTransport.java:81) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.SimpleTransportPlugin.connect(SimpleTransportPlugin.java:105) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:53) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+Caused by: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_141]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_141]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_141]
+	at org.apache.storm.thrift.transport.TSocket.open(TSocket.java:221) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.thrift.transport.TFramedTransport.open(TFramedTransport.java:81) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.SimpleTransportPlugin.connect(SimpleTransportPlugin.java:105) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:53) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+2018-02-26 15:17:49.458 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-16 [WARN] WILL SLEEP FOR 2001ms (NOT MAX)
+2018-02-26 15:17:51.460 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-16 [WARN] WILL SLEEP FOR 2003ms (NOT MAX)
+2018-02-26 15:17:53.464 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-16 [WARN] WILL SLEEP FOR 2005ms (NOT MAX)
+2018-02-26 15:17:55.470 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-16 [WARN] WILL SLEEP FOR 2014ms (NOT MAX)
+2018-02-26 15:17:57.484 o.a.s.u.StormBoundedExponentialBackoffRetry qtp1648537147-16 [WARN] WILL SLEEP FOR 2026ms (NOT MAX)
+2018-02-26 15:17:59.511 o.a.s.u.NimbusClient qtp1648537147-16 [WARN] Ignoring exception while trying to get leader nimbus info from 172.18.72.181. will retry with a different seed host.
+java.lang.RuntimeException: java.lang.RuntimeException: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:112) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.<init>(ThriftClient.java:73) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.<init>(NimbusClient.java:136) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.getConfiguredClientAs(NimbusClient.java:92) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.utils.NimbusClient.getConfiguredClientAs(NimbusClient.java:66) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$cluster_configuration.invoke(core.clj:342) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$fn__9557.invoke(core.clj:1106) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$make_route$fn__5979.invoke(core.clj:100) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$if_route$fn__5967.invoke(core.clj:46) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$if_method$fn__5960.invoke(core.clj:31) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.compojure.core$routing$fn__5985.invoke(core.clj:113) ~[storm-core-1.2.1.jar:1.2.1]
+	at clojure.core$some.invoke(core.clj:2570) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.shade.compojure.core$routing.doInvoke(core.clj:113) ~[storm-core-1.2.1.jar:1.2.1]
+	at clojure.lang.RestFn.applyTo(RestFn.java:139) ~[clojure-1.7.0.jar:?]
+	at clojure.core$apply.invoke(core.clj:632) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.shade.compojure.core$routes$fn__5989.invoke(core.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.cors$wrap_cors$fn__8894.invoke(cors.clj:149) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.json$wrap_json_params$fn__8841.invoke(json.clj:56) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.multipart_params$wrap_multipart_params$fn__6621.invoke(multipart_params.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.reload$wrap_reload$fn__7904.invoke(reload.clj:22) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.helpers$requests_middleware$fn__6874.invoke(helpers.clj:52) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.core$catch_errors$fn__9761.invoke(core.clj:1428) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.keyword_params$wrap_keyword_params$fn__6541.invoke(keyword_params.clj:35) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.nested_params$wrap_nested_params$fn__6584.invoke(nested_params.clj:84) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.params$wrap_params$fn__6513.invoke(params.clj:64) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.multipart_params$wrap_multipart_params$fn__6621.invoke(multipart_params.clj:118) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.flash$wrap_flash$fn__6836.invoke(flash.clj:35) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.middleware.session$wrap_session$fn__6822.invoke(session.clj:98) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet$make_service_method$fn__6371.invoke(servlet.clj:127) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet$servlet$fn__6375.invoke(servlet.clj:136) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.ring.util.servlet.proxy$javax.servlet.http.HttpServlet$ff19274a.service(Unknown Source) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:654) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1320) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.logging.filters.AccessLoggingFilter.handle(AccessLoggingFilter.java:47) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.logging.filters.AccessLoggingFilter.doFilter(AccessLoggingFilter.java:39) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_141]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_141]
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:93) ~[clojure-1.7.0.jar:?]
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28) ~[clojure-1.7.0.jar:?]
+	at org.apache.storm.ui.helpers$x_frame_options_filter_handler$fn__6967.invoke(helpers.clj:192) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.ui.helpers.proxy$java.lang.Object$Filter$abec9a8f.doFilter(Unknown Source) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlets.CrossOriginFilter.handle(CrossOriginFilter.java:247) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlets.CrossOriginFilter.doFilter(CrossOriginFilter.java:210) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1291) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:443) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1044) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:372) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:978) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.Server.handle(Server.java:369) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.shade.org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543) ~[storm-core-1.2.1.jar:1.2.1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+Caused by: java.lang.RuntimeException: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.security.auth.TBackoffConnect.retryNext(TBackoffConnect.java:64) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:56) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+Caused by: org.apache.storm.thrift.transport.TTransportException: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at org.apache.storm.thrift.transport.TSocket.open(TSocket.java:226) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.thrift.transport.TFramedTransport.open(TFramedTransport.java:81) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.SimpleTransportPlugin.connect(SimpleTransportPlugin.java:105) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:53) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+Caused by: java.net.ConnectException: 拒绝连接 (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_141]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_141]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_141]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_141]
+	at org.apache.storm.thrift.transport.TSocket.open(TSocket.java:221) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.thrift.transport.TFramedTransport.open(TFramedTransport.java:81) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.SimpleTransportPlugin.connect(SimpleTransportPlugin.java:105) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.TBackoffConnect.doConnectWithRetry(TBackoffConnect.java:53) ~[storm-core-1.2.1.jar:1.2.1]
+	at org.apache.storm.security.auth.ThriftClient.reconnect(ThriftClient.java:104) ~[storm-core-1.2.1.jar:1.2.1]
+	... 64 more
+2018-02-26 15:18:43.668 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:18:43.761 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:18:43.767 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:18:43.767 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:18:43.774 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:22:20.090 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:22:20.195 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:22:20.199 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:22:20.203 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:22:20.213 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:23:45.139 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:23:45.246 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:23:45.248 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:23:45.248 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:23:45.264 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:24:26.021 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:24:26.155 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:24:26.155 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:24:26.156 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:24:26.156 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:28:59.513 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:28:59.604 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:28:59.604 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:28:59.605 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:28:59.606 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:02.596 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:08.468 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:13.394 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:18.234 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:18.236 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:33.132 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:33.247 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:33.247 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:33.251 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:29:33.252 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:30:23.852 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:30:23.853 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:30:23.882 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:42:07.740 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:42:07.741 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:42:07.757 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:33.175 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:33.192 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:33.263 o.a.s.u.core qtp1648537147-20 [INFO] Killing topology 'TopServer' with wait time: 1 secs
+2018-02-26 15:43:33.457 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:33.460 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:33.481 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:43:51.809 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:22.257 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:22.258 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:30.697 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:30.806 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:30.810 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:30.811 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:49:30.819 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:28.614 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:28.739 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:28.741 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:28.741 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:28.751 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:32.774 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:32.886 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:32.887 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:32.890 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:32.892 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:33.877 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:33.924 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:33.925 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:33.925 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:33.935 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:39.130 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:39.134 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 15:50:39.151 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:02:57.000 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:02:57.005 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:02:57.023 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:11.786 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:11.791 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:11.809 o.a.s.u.NimbusClient qtp1648537147-21 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:21.483 o.a.s.u.NimbusClient qtp1648537147-16 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:21.589 o.a.s.u.NimbusClient qtp1648537147-19 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:21.589 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:21.591 o.a.s.u.NimbusClient qtp1648537147-18 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:21.593 o.a.s.u.NimbusClient qtp1648537147-20 [INFO] Found leader nimbus : sgcc-sas-log0:6627
+2018-02-26 16:21:36.497 o.a.s.u.NimbusClient qtp1648537147-17 [INFO] Found leader nimbus : sgcc-sas-log0:6627
